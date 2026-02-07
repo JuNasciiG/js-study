@@ -1,3 +1,4 @@
-# Basics/strings
+# Basic Numbers
 
-This folder contains examples and exercises focusing on strings in JavaScript.
+This folder contains examples and exercises focusing on numbers in JavaScript.
+
