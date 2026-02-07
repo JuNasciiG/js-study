@@ -1,3 +1,3 @@
-# 01-basics/strings
+# Basics/strings
 
 This folder contains examples and exercises focusing on strings in JavaScript.
