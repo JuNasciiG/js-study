@@ -1,3 +1,3 @@
-# Placeholder for linking JavaScript to HTML
+Linking JavaScript to HTML
 
-This directory contains examples and resources related to linking JavaScript to HTML.
+This directory contain an example and resource related to linking JavaScript to HTML.
