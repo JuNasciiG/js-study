@@ -1,3 +1,3 @@
 # Math Methods
 
-This folder contains resources and challenges related to mathematical methods in programming.
+This folder contains examples and exercises focusing on math methods in JavaScript.
